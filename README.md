@@ -5,6 +5,17 @@ This project and code os design for a bomb PROP, this is not a weapon and can no
 # GENERAL INFO
 A interactive bomb prop for airsoft game / scenarioes. A project based on a ardunio nano and a couple simple components.
 
+# GIVEN'S
+This github gives access to the code and the gerber files.
+
+# REQUIRED HARDWARE
+I used :
+1 LED 5V.
+1 ARDUINO NANO
+3 CHERRY SPEC KEYBOARD SWITCHES
+1 16 by 32 OLED I2C SCREEN
+
+
 # HOW TO USE
 ## SETTING THE TIMER
 After powering on the prop, a splash screen will appear, followed by a prompt to choose the bomb timer.
