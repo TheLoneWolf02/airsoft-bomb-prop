@@ -48,3 +48,9 @@ You have to defuse the bomb, you find the "bomb". You have the info on the first
 1. you guess right and win.
 2. you guess wrong and you lose.
 
+
+Here you can see the diagrame and a view of the pcb traces:
+
+![Diagram](https://github.com/TheLoneWolf02/airsoft-bomb-prop/assets/29492892/899fae50-0cc8-4eda-bd0b-b741c8bb3de5)
+
+![PCB VIEW](https://github.com/TheLoneWolf02/airsoft-bomb-prop/assets/29492892/57dffb50-691f-4207-aafc-84425259ba01)
